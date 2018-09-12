@@ -14,6 +14,7 @@
 		F970980F214701B2009DEC43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F970980D214701B2009DEC43 /* LaunchScreen.storyboard */; };
 		F970981A214701B2009DEC43 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9709819214701B2009DEC43 /* CountTests.swift */; };
 		F9709825214701B2009DEC43 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9709824214701B2009DEC43 /* CountUITests.swift */; };
+		F9709835214703AA009DEC43 /* スマブラピーチ.png in Resources */ = {isa = PBXBuildFile; fileRef = F9709834214703AA009DEC43 /* スマブラピーチ.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F9709820214701B2009DEC43 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9709824214701B2009DEC43 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		F9709826214701B2009DEC43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9709834214703AA009DEC43 /* スマブラピーチ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スマブラピーチ.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		F9709803214701AF009DEC43 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				F9709834214703AA009DEC43 /* スマブラピーチ.png */,
 				F9709804214701AF009DEC43 /* AppDelegate.swift */,
 				F9709806214701AF009DEC43 /* ViewController.swift */,
 				F9709808214701AF009DEC43 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				F970980F214701B2009DEC43 /* LaunchScreen.storyboard in Resources */,
 				F970980C214701B2009DEC43 /* Assets.xcassets in Resources */,
 				F970980A214701AF009DEC43 /* Main.storyboard in Resources */,
+				F9709835214703AA009DEC43 /* スマブラピーチ.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
